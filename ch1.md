@@ -124,3 +124,6 @@ Appendix C illustrates some of these libraries using various examples from the t
 ## Summary
 
 This is Functional-Light JavaScript. The goal is to learn to communicate with our code but not suffocate under mountains of notation or terminology to get there. I hope this book jumpstarts your journey!
+
+[Chapter 2: Functional Functions](ch2.md)
+
